@@ -1,0 +1,9 @@
+.curso.json
+app/.venv/
+app/__pycache__/
+app/**/*.pyc
+app/.env*
+!app/.env.example
+.DS_Store
+app/.playwright-mcp
+app/.claude/settings.local.json

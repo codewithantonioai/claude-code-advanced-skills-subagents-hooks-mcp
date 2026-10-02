@@ -1,0 +1,26 @@
+[
+  {
+    "id": "4a08ee68-2f13-416e-ae4e-4bb3fdc4da3d",
+    "title": "Dune",
+    "author": "Frank Herbert",
+    "read": true
+  },
+  {
+    "id": "07991bd0-9519-463b-aed2-bdb6e0c31601",
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "read": true
+  },
+  {
+    "id": "28112570-68b9-4dbb-affa-09e1b1ffbee7",
+    "title": "Atomic Habits",
+    "author": "James Clear",
+    "read": false
+  },
+  {
+    "id": "24478d83-80bf-42fd-8677-42b937fdf0c4",
+    "title": "Project Hail Mary",
+    "author": "Andy Weir",
+    "read": false
+  }
+]
